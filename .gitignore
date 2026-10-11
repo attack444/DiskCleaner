@@ -1,48 +1,28 @@
 # Python
 __pycache__/
 *.py[cod]
-*$py.class
 *.so
-.Python
 build/
-develop-eggs/
 dist/
-downloads/
-eggs/
-.eggs/
-lib/
-lib64/
-parts/
-sdist/
-var/
-wheels/
 *.egg-info/
-.installed.cfg
-*.egg
-
-# Виртуальные окружения
-.venv/
-venv/
-ENV/
-env/
-.python-version
-
-# PyInstaller
-*.manifest
-*.spec.bak
-installer_output/
-
-# Тесты
 .pytest_cache/
 .coverage
 htmlcov/
 .tox/
 
+# Виртуальные окружения
+.venv/
+venv/
+env/
+
+# PyInstaller
+installer_output/
+*.spec.bak
+
 # IDE
 .vscode/
 .idea/
 *.swp
-*.swo
 *~
 
 # OS
@@ -50,14 +30,9 @@ htmlcov/
 Thumbs.db
 desktop.ini
 
-# Локальные артефакты DiskCleaner
-/tmp/
-/logs/
+# Локальные логи/артефакты
 *.log
 *.jsonl
-
-# uv
-uv.lock.bak
-
-# Временные файлы бэкапов реестра
 *.reg
+# Windows runtime artifacts
+_appmodel.txt
