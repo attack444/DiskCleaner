@@ -8,6 +8,9 @@
 ![platform](https://img.shields.io/badge/platform-Windows%2010%2F11-informational)
 ![python](https://img.shields.io/badge/python-3.11%2B-blue)
 ![license](https://img.shields.io/badge/license-MIT-green)
+![downloads](https://img.shields.io/github/downloads/attack444/DiskCleaner/total)
+![release](https://img.shields.io/github/v/release/attack444/DiskCleaner)
+![issues](https://img.shields.io/github/issues/attack444/DiskCleaner)
 
 ---
 
